@@ -27,4 +27,4 @@
 
 ### 최종폼_데이터변경
 각 돋보기 아이콘을 누르면 바로 해당 테이블로 이동되어 데이터를 수정할 수 있다
-![image](https://github.com/user-attachments/assets/4d74ff99-865c-4dc1-8d0a-7d37e8c5b2bd)
+![image](https://github.com/user-attachments/assets/da7d972b-43be-458a-be12-2953dc8b3293)
